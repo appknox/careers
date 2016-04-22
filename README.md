@@ -22,7 +22,7 @@ Wanna be a KnoxStar? We are Hiring!
 
 ## Open Positions
 
-* [Backend Engineer](https://github.com/appknox/careers/blob/master/backend-engineer.md)(Python) [Min. 2 years]
+* [Backend Engineer](https://github.com/appknox/careers/blob/master/backend-engineer.md) (Python) [Min. 2 years]
 * [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 2 years]
 * [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 2 years]
 
@@ -32,7 +32,7 @@ Wanna be a KnoxStar? We are Hiring!
 The interview process in the order:
 
 1. 3 programming challenges [As clean & as pragmatic as possible with test-cases]
-1. Phone/Skype/Hangouts interview (tech + personal) with @subho007 & @dhilipsiva
+1. Phone/Skype/Hangouts interview (tech + personal) with [@subho007](https://github.com/subho007) & [@dhilipsiva](https://github.com/dhilipsiva)
 1. A half-day pair programming with the entire tech team
 1. Play Counter-Strike as a right of passage and become a KnoxStar :)
 
@@ -63,17 +63,17 @@ Once we receive your mail - we will send you the programming challenges. You can
 
 This is our current tech-team
 
-* @subho007 (CTO)
-* @dhilipsiva (Tech Lead / Full-Stack / DevOps)
-* @jitk14 (Full-Stack & Java Developer)
+* [@subho007](https://github.com/subho007) (CTO)
+* [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
+* [@jitk14](https://github.com/jitk14) (Full-Stack & Java Developer)
 
 
 ## Ex-KnoxStars
 
 Not sure if you will be having good time at Appknox? Feel free to contact our Ex-KnoxStars and ask them about their experience with Appknox. In fact, we recommend it. Be #ProactiveAlways. Here is a complete list of all the Ex-KnoxStars:
 
-* @manjunath-satyamurthy (Full-Stack)
-* @rmad17 (Full-Stack)
+* [@manjunath-satyamurthy](https://github.com/manjunath-satyamurthy) (Full-Stack)
+* [@rmad17](https://github.com/rmad17) (Full-Stack)
 
 
 ## Issues / Questions?
