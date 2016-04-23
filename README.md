@@ -13,18 +13,18 @@ Wanna be a KnoxStar? We are Hiring!
 * Proficient in English
 * Have a GitHub & StackOverflow profile
 * Proficient in writing test-first code (a.k.a Writing testable code)
-* Make sure you read our [architecture blog post](http://dhilipsiva.com/2015/01/26/architecture-at-appknox.html) before applying. You dont have to understand everything there. But just a high-level understanding would be a huge plus.
+* Make sure you read our [architecture blog post](http://dhilipsiva.com/2015/01/26/architecture-at-appknox.html) before applying. You dont have to understand everything there. But just a high-level understanding would be a huge plus
 * You have your own Linux / Mac machine
 * Windows is allowed iff you are a windows power-user and capable of setting up dev environment that is identical to Linux/Mac
 * Any other tech-skill that you have that are not in job requirements (be sure to mention in the mail)
-* Can make chicken / pork barbeque
+* Can play Counter-Strike (Optional. Its okay if tou cannot play Counter Strike - we will teach you)
 
 
 ## Open Positions
 
-* [Backend Engineer](https://github.com/appknox/careers/blob/master/backend-engineer.md) (Python) [Min. 2 years]
-* [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 2 years]
-* [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 2 years]
+* [Backend Engineer](https://github.com/appknox/careers/blob/master/backend-engineer.md) (Python) [Min. 2 years of experience]
+* [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 2 years of experience]
+* [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 2 years of experience]
 
 
 ## The Interview Process
@@ -32,7 +32,7 @@ Wanna be a KnoxStar? We are Hiring!
 The interview process in the order:
 
 1. 3 programming challenges [As clean & as pragmatic as possible with test-cases]
-1. Phone/Skype/Hangouts interview (tech + personal) with [@subho007](https://github.com/subho007) & [@dhilipsiva](https://github.com/dhilipsiva)
+1. Phone/Skype/Hangouts interview (tech + personal) with our Tech Team
 1. A half-day pair programming with the entire tech team
 1. Play Counter-Strike as a right of passage and become a KnoxStar :)
 
@@ -56,7 +56,7 @@ The interview process in the order:
 
 Email with the role that you are applying in the subject and with GitHub, StackOverflow, personal site (or any link that you think might be useful in evaluating you), etc in the body. Resumes are okay - but not really valuable for evaluation.
 
-Once we receive your mail - we will send you the programming challenges. You can take as much time as you want to complete the challenges (But the sooner is better. The timings will be evaluated too)
+Once we receive your mail - we will send you the programming challenges. You can take as much time as you want to complete the challenges (But the sooner is better. The timings will be evaluated too).
 
 
 ## KnoxStars
