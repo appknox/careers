@@ -16,4 +16,4 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 ## Nice to have (Optional)
 * Plugin development experience for Intellij IDE(s)
-* Java Swing API
+* Java Swing API practical knowledge
