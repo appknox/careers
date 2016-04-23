@@ -4,19 +4,17 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 ## Responsibilities
 
-* You will take care of our entire client-side application.
-* Implement new features
-* Possibility a complete re-write of client-side app to match the new design we are coming up with
+* You will be reponsible for writing IDE plugins for various IDEs
+* You should have experience in consuming RESTFul API endpoints
+
 
 ## Requirements
 
-* Should have at-least 2 years experience in building frontend (any framework / without framework).
-* Of the 2 years thats mentioned above, at least 1 year should be using a one of Ember, Angular or Backbone framework (Ember is a very huge plus).
-* Its okay if you have never used Ember, but basic understanding of how it works is a must.
-* Strong HTML, JavaScript (Duh!) & CSS
+* Should have at-least 2 years of experience in building tools / applicaitons with any language
+* Of 2 years mentioned above, a minimum of 1 year should be using Java
 
 
 ## Nice to have (Optional)
 
-* CoffeeScript / EmberScript
-* Advanced CSS skills
+* Previous experience in building IDE Plugins (A Huge Plus)
+* A basic understanding of Design Patterns
