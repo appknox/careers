@@ -18,5 +18,6 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 ## Nice to have (Optional)
 
-* CoffeeScript / EmberScript
+* CoffeeScript / EmberScript (Huge Plus)
+* LESS / SASS (Huge Plus)
 * Advanced CSS skills
