@@ -17,7 +17,7 @@ Wanna be a KnoxStar? We are Hiring!
 * You have your own Linux / Mac machine
 * Windows is allowed iff you are a windows power-user and capable of setting up dev environment that is identical to Linux/Mac
 * Any other tech-skill that you have that are not in job requirements (be sure to mention in the mail)
-* Can play Counter-Strike (Optional. Its okay if tou cannot play Counter Strike - we will teach you)
+* Can play Counter-Strike (Optional. It's okay if you cannot play Counter Strike - we will teach you)
 
 
 ## Open Positions
