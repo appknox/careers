@@ -31,9 +31,9 @@ Wanna be a KnoxStar? We are Hiring!
 
 The interview process in the order:
 
-1. 3 programming challenges [As clean & as pragmatic as possible with test-cases]
-1. Phone/Skype/Hangouts interview (tech + personal) with our Tech Team
-1. A half-day pair programming with the entire tech team
+1. 3 programming challenges (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
+1. Phone/Skype/Hangouts interview (personal + past experiences + little bit of tech) with our Tech Team
+1. A half-day pair programming with the entire tech team (If you can skip the first step - you can skip this as well, if you wnat)
 1. Play Counter-Strike as a right of passage and become a KnoxStar :)
 
 
