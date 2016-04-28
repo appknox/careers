@@ -34,6 +34,7 @@ We are very picky about hiring. Because the core members will set the engineerin
 * [Backend Engineer](https://github.com/appknox/careers/blob/master/backend-engineer.md) (Python) [Min. 2 years of experience]
 * [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 2 years of experience]
 * [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 2 years of experience]
+* [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 2 years of experience]
 
 
 ## The Interview Process
