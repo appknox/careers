@@ -65,7 +65,7 @@ The interview process in the order:
 
 ## How to apply?
 
-Email [dhilipsiva-at-gmail-dot-com] with the role that you are applying in the subject and with GitHub, StackOverflow, personal site (or any link that you think might be useful in evaluating you), etc in the body. Resumes are okay - but not really valuable for evaluation.
+Email engineering[at]appknox[dot]com with the role that you are applying in the subject and with GitHub, StackOverflow, personal site (or any link that you think might be useful in evaluating you), etc in the body. Resumes are okay - but not really valuable for evaluation.
 
 Once we receive your mail - we will send you the programming challenges. You can take as much time as you want to complete the challenges (But the sooner is better. The timings will be evaluated too).
 
