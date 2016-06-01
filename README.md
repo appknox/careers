@@ -77,7 +77,7 @@ This is our current tech-team
 * [@subho007](https://github.com/subho007) (CTO)
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
 * [@jitk14](https://github.com/jitk14) (Full-Stack & Java Developer)
-
+* [@yashwin](https://github.com/yashwin) (Frontend Developer)
 
 ## Ex-KnoxStars
 
