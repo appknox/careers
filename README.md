@@ -78,6 +78,7 @@ This is our current tech-team
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
 * [@jitk14](https://github.com/jitk14) (Full-Stack & Java Developer)
 * [@darshanime](https://github.com/darshanime) (Backend engineer)
+* [@yashwin](https://github.com/yashwin) (Frontend Developer)
 
 
 ## Ex-KnoxStars
