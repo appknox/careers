@@ -79,7 +79,7 @@ This is our current tech-team
 * [@jitk14](https://github.com/jitk14) (Full-Stack & Java Developer)
 * [@darshanime](https://github.com/darshanime) (Backend engineer)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
-
+* [@hemansutanty](https://github.com/hemansutanty) (Product Development Engineer)
 
 ## Ex-KnoxStars
 
