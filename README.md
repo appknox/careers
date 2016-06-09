@@ -7,7 +7,7 @@ Wanna be a KnoxStar? We are Hiring!
 
 We have built some Microservices & IDE Plugins with Python/Django, Node, Java, Ember to help developers and enterprises to automatically detect and fix security loopholes in their Mobile (iOS, Android, Windows, etc.) / IoT Apps within a few minutes. Before you wonder: No, you need not know anything at all about security to apply for tech positions in Appknox. We have expericed security professionals on-board who will give us scripts to detect vulnerabilities. Our job is to refine it and integrate it with the whole system. Only requirement to apply for appknox is to know how to write good code.
 
-Our tech team is close-knit family of 3 developers (1 of which is @subho007 - CTO). But the size of company is about 25+ people strong (security, sales, marketing, design & other teams). The tech team intentionally tried being as small as possible for as long as possible. Because we love to do as much work as we can - on our own. Only hire when we can no longer handle things on our own. It gives you a lot of oppurtunity to learn a lot of things. 
+Our tech team is close-knit family of 3 developers (1 of which is @subho007 - CTO). But the size of company is about 25+ people strong (security, sales, marketing, design & other teams). The tech team intentionally tried being as small as possible for as long as possible. Because we love to do as much work as we can - on our own. Only hire when we can no longer handle things on our own. It gives you a lot of oppurtunity to learn a lot of things.
 
 We are very picky about hiring. Because the core members will set the engineering culture that the entire tech team will follow in the future. Which means the core team should reflect the kind of culture we wish to have in our company: A close knit family of learners trying to leave a mark in the world. To make today safer & better than yesterday - however small the change may be. This is what it means to be a KnoxStar.
 
@@ -78,6 +78,7 @@ This is our current tech-team
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
 * [@jitk14](https://github.com/jitk14) (Full-Stack & Java Developer)
 * [@darshanime](https://github.com/darshanime) (Backend engineer)
+* [@ChillarAnand](https://github.com/chillaranand) (Backend engineer)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
 
 
