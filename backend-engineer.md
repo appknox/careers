@@ -22,4 +22,4 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 * Good grasp on client-side JavaScript (or CoffeeScript is Huge Plus)
 * have used frontend frameworks like Ember, Angular, Backbone
-* Have a good understaing about Swagger
+* Have a good understanding about Swagger
