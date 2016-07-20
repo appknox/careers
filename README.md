@@ -76,7 +76,6 @@ This is our current tech-team
 
 * [@subho007](https://github.com/subho007) (CTO)
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
-* [@jitk14](https://github.com/jitk14) (Full-Stack & Java Developer)
 * [@darshanime](https://github.com/darshanime) (Backend engineer)
 * [@ChillarAnand](https://github.com/chillaranand) (Backend engineer)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
@@ -89,6 +88,7 @@ Not sure if you will be having good time at Appknox? Feel free to contact our Ex
 
 * [@manjunath-satyamurthy](https://github.com/manjunath-satyamurthy) (Full-Stack)
 * [@rmad17](https://github.com/rmad17) (Full-Stack)
+* [@jitk14](https://github.com/jitk14) (Full-Stack & Java Developer)
 
 
 ## Issues / Questions?
