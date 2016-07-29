@@ -13,7 +13,6 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 * Comfortable with *nux & Command Line (And tools such as npm, bower, grunt, brocolli, gulp, ember-cli and basic *nix commands)
 * Should have at-least 2 years experience in building frontend (any framework / without framework)
 * Of the 2 years thats mentioned above, at least 1 year should be using a one of Ember, Angular or Backbone framework (Ember is a very huge plus)
-* Its okay if you have never used Ember, but basic understanding of how it works is a must
 * Strong HTML, JavaScript (Duh!) & CSS
 
 
