@@ -84,6 +84,7 @@ This is our current tech-team
 * [@ChillarAnand](https://github.com/chillaranand) (Backend engineer)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
 * [@hemansutanty](https://github.com/hemansutanty) (Product Development Engineer)
+* [@viren-nadkarni](https://github.com/viren-nadkarni) (Product Development Engineer)
 
 
 ## Ex-KnoxStars
