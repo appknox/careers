@@ -30,12 +30,15 @@ We are very picky about hiring. Because the core members will set the engineerin
 
 
 ## Open Positions
+* [Software Engineer](https://github.com/appknox/careers/blob/master/software-engineer-xcode.md) (XCode) [Min. 2 years of experience]
+* [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 2 years of experience]
+## Other Positions [
+
+These positions are urrently filled at the moment. You can still send us your resumes, but we are not hire for these roles untill there is a need again.
 
 * [Backend Engineer](https://github.com/appknox/careers/blob/master/backend-engineer.md) (Python) [Min. 2 years of experience]
 * [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 2 years of experience]
 * [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 2 years of experience]
-* [Software Engineer](https://github.com/appknox/careers/blob/master/software-engineer-xcode.md) (XCode) [Min. 2 years of experience]
-* [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 2 years of experience]
 
 
 ## The Interview Process
