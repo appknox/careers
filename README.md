@@ -1,4 +1,5 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/appknox/appknox)
+[![Join the chat at https://gitter.im/appknox/careers](https://badges.gitter.im/appknox/careers.svg)](https://gitter.im/appknox/careers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # Career @ Appknox
 
 Wanna be a KnoxStar? We are Hiring!
