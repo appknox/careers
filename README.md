@@ -20,8 +20,6 @@ If you have been under a rock since last 10 years and do not know what `Joel Tes
 
 It is a 15 years-old test. A bit outdated for the modern startups. This is an updated version of the test. You can read more about the updated test [here](http://www.steve.codes/blog/2016/7/22/an-updated-joel-test).
 
-http://www.steve.codes/blog/2016/7/22/an-updated-joel-test
-
 
 Question | Y/N
 --- | ---
