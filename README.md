@@ -14,6 +14,33 @@ Our tech team is close-knit family of 7 developers. But the size of company is a
 We are very picky about hiring. Because the core members will set the engineering culture that the entire tech team will follow in the future. Which means the core team should reflect the kind of culture we wish to have in our company: A close knit family of learners trying to leave a mark in the world. To make today safer & better than yesterday - however small the change may be. This is what it means to be a KnoxStar.
 
 
+## Joel Test
+
+If you have been under a rock since last 10 years and do not know what `Joel Test` is, click [here](http://www.joelonsoftware.com/articles/fog0000000043.html)
+
+It is a 15 years-old test. A bit outdated for the mordern startups. This is an updated version of the test. YOu can read more about the updates test [here](http://www.steve.codes/blog/2016/7/22/an-updated-joel-test)
+
+http://www.steve.codes/blog/2016/7/22/an-updated-joel-test
+
+
+Question | Y/N
+--- | ---
+Do you use source control? | Y
+Can you build and deploy your software in one step? | Y
+Do you build on every commit? | Y
+Do you have a bug database? | Y
+Do you fix bugs before writing new code? | Y
+Do you measure your progress in terms of value delivered? | Y
+Do you have a executable specification? | N (But this is on priority)
+Does your environment foster collaboration? | Y
+Do you use the best tools money can buy? | Y (Partial Yes)
+Is testing everyone's responsibility? | Y
+Do new candidates write code during their interview? | Y
+Do you do hallway usability testing? | Y
+
+***Test Score: 10.5 (out of 12)***
+
+
 ## Common Requirements & Responsibilities
 
 * You are responsible for growing your team
