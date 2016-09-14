@@ -69,6 +69,11 @@ These positions are currently filled at the moment. You can still send us your r
 * [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 2 years of experience]
 
 
+## Internships
+
+We are not entertaining any Interns at the moment. Should that change anytime in the future - we'll update it here. So `Watch` our repo for changes.
+
+
 ## The Interview Process
 
 The interview process in the order:
