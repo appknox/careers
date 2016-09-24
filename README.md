@@ -2,6 +2,8 @@
 [![Join the chat at https://gitter.im/appknox/careers](https://badges.gitter.im/appknox/careers.svg)](https://gitter.im/appknox/careers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # Careers @ Appknox
 
+[![Join the chat at https://gitter.im/appknox/careers](https://badges.gitter.im/appknox/careers.svg)](https://gitter.im/appknox/careers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Wanna be a KnoxStar? We are Hiring!
 
 
