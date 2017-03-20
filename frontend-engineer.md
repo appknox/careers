@@ -21,3 +21,8 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 * EmberScript
 * Advanced CSS skills
 * Can convert PSDs to pragmatic Ember code.
+
+
+## Get hired instantly
+
+Just send us a nice PR for [appknox/irene](https://github.com/appknox/irene) or [appknox/hudson](https://github.com/appknox/hudson) and get hired instantly.
