@@ -57,6 +57,7 @@ Do you do hallway usability testing? | Y
 
 
 ## Open Positions
+* [Python Engineer](https://github.com/appknox/careers/blob/master/python-backend-engineer.md) [Min. 2 years of experience]
 * [Software Engineer](https://github.com/appknox/careers/blob/master/software-engineer-xcode.md) (XCode) [Min. 2 years of experience]
 * [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 2 years of experience]
 
@@ -80,7 +81,7 @@ The interview process in the order:
 
 1. 3 programming challenges (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
 1. Phone/Skype/Hangouts interview (personal + past experiences + little bit of tech) with our Tech Team
-1. A half-day pair programming with the entire tech team (If you are eligile to skip the first step - you can skip this step as well, if you want)
+1. Small project. We will give you a small project which can be done in a week. You can send it once you have completed the project. You can reach us anytime if you need any help. You will get paid for the work whether your get hired or not.
 1. Play Counter-Strike as a right of passage and become a KnoxStar :) [optional]
 
 
