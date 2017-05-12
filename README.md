@@ -29,7 +29,7 @@ Do you build on every commit? | Y
 Do you have a bug database? | Y
 Do you fix bugs before writing new code? | Y
 Do you measure your progress in terms of value delivered? | Y
-Do you wrhite test-cases? | Y
+Do you write test-cases? | Y
 Does your environment foster collaboration? | Y
 Do you use the best tools money can buy? | y (Partial Yes)
 Is testing everyone's responsibility? | Y
