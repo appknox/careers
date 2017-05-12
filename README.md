@@ -109,7 +109,7 @@ Once we receive your mail - we will send you the programming challenges. You can
 
 ## KnoxStars
 
-This is our current tech-team
+This is our current tech-team (In the order of Date of Joining):
 
 * [@subho007](https://github.com/subho007) (CTO)
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
@@ -122,7 +122,7 @@ This is our current tech-team
 
 ## Ex-KnoxStars
 
-Not sure if you will be having good time at Appknox? Feel free to contact our Ex-KnoxStars and ask them about their experience with Appknox. In fact, we recommend it. Be #ProactiveAlways. Here is a complete list of all the Ex-KnoxStars:
+Not sure if you will be having good time at Appknox? Feel free to contact our Ex-KnoxStars and ask them about their experience with Appknox. In fact, we recommend it. Be #ProactiveAlways. Here is a complete list of all the Ex-KnoxStars (In the order of date of leaving):
 
 * [@manjunath-satyamurthy](https://github.com/manjunath-satyamurthy) (Full-Stack)
 * [@rmad17](https://github.com/rmad17) (Full-Stack)
