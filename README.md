@@ -7,11 +7,11 @@ Wanna be a KnoxStar? We are Hiring!
 
 ## About Appknox
 
-We have built some Microservices & IDE Plugins with Python/Django, Node, Java, Ember to help developers and enterprises to automatically detect and fix security loopholes in their Mobile (iOS, Android, Windows, etc.) / IoT Apps within a few minutes. Before you wonder: No, you need not know anything at all about security to apply for tech positions in Appknox. We have expericed security professionals on-board who will give us scripts to detect vulnerabilities. Our job is to refine it and integrate it with the whole system. Only requirement to apply for appknox is to know how to write good code.
+We have built some Microservices, Device Farms (Android & iOS) & IDE Plugins with Python/Django, Node, Java, Ember to help developers and enterprises to automatically detect and fix security loopholes in their Mobile (iOS, Android, Windows, etc.) / IoT Apps within a few minutes. Before you wonder: No, you need not know anything at all about security to apply for tech positions in Appknox. We have expericed security professionals on-board who will give us scripts to detect vulnerabilities. Our job is to refine it and integrate it with the whole system. Only requirement to apply for appknox is to know how to write good code.
 
-Our tech team is close-knit family of 7 developers. But the size of company is about 25+ people strong (security, sales, marketing, design & other teams). The tech team intentionally tried being as small as possible for as long as possible. Because we love to do as much work as we can - on our own. Only hire when we can no longer handle things on our own. It gives you a lot of oppurtunity to learn a lot of things.
+Our tech team is close-knit family of handful of developers. But the size of company is about 25+ people strong (security, sales, marketing, design & other teams). The tech team intentionally tried being as small as possible for as long as possible. Because we love to do as much work as we can - on our own. Only hire when we can no longer handle things on our own. It gives you a lot of oppurtunity to learn a lot of things.
 
-We are very picky about hiring. Because the core members will set the engineering culture that the entire tech team will follow in the future. Which means the core team should reflect the kind of culture we wish to have in our company: A close knit family of learners trying to leave a mark in the world. To make today safer & better than yesterday - however small the change may be. This is what it means to be a KnoxStar.
+We are very picky about hiring. Because the core members will set the engineering culture that the entire tech team will follow in the future. Which means the core team should reflect the kind of culture we wish to have at out startup: A close knit family of learners trying to leave behind a mark in the world. To make today - safer & better than yesterday - however small the change may be. This is what it means to be a KnoxStar.
 
 
 ## Joel Test
@@ -29,14 +29,14 @@ Do you build on every commit? | Y
 Do you have a bug database? | Y
 Do you fix bugs before writing new code? | Y
 Do you measure your progress in terms of value delivered? | Y
-Do you have a executable specification? | N (But this is on priority)
+Do you wrhite test-cases? | Y
 Does your environment foster collaboration? | Y
-Do you use the best tools money can buy? | Y (Partial Yes)
+Do you use the best tools money can buy? | y (Partial Yes)
 Is testing everyone's responsibility? | Y
 Do new candidates write code during their interview? | Y
 Do you do hallway usability testing? | Y
 
-***Test Score: 10.5 (out of 12)***
+***Test Score: 11.5 (out of 12)***
 
 
 ## Common Requirements & Responsibilities
@@ -81,7 +81,7 @@ The interview process in the order:
 
 1. 3 programming challenges (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
 1. Phone/Skype/Hangouts interview (personal + past experiences + little bit of tech) with our Tech Team
-1. One week paid-trial. You have to our office and work with us for a week (Monday to Friday). If everything goes well, you will be hired. You will get paid for the work whether your get hired or not.
+1. One week paid-trail. You have to our office and work with us for a week (Monday to Friday). If everything goes well, you will be hired. You will get paid for the work whether your get hired or not.
 1. Play Counter-Strike as a right of passage and become a KnoxStar :) [optional]
 
 
