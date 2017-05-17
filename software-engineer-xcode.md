@@ -11,10 +11,11 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 ## Requirements
 
-* Should have at-least 2 years experience of building in Apple platforms
+* Should have at-least 5 years experience of building in Apple platforms
 * Strong Objective-C and Swift Skills
 * Strong knowledge of Cocoa & Cocoa Touch Frameworks
 * Comfortable with consuming and communicating with RESTful endpoints
+* The number of years may not matter if you show promising skills
 
 
 ## Nice to have (Optional)
