@@ -9,10 +9,11 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 ## Requirements
 
-* Should have at-least 2 years experience with core java. 
+* Should have at-least 3 years experience with core java. 
 * Should have design patterns knowledge with java
 * Should have knowledge of multi threading with java
 * Must be good with data structures
+* The number of years may not matter if you show promising skills
 
 ## Nice to have (Optional)
 * Plugin development experience for Intellij IDE(s)
