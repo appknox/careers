@@ -57,16 +57,16 @@ Do you do hallway usability testing? | Y
 
 
 ## Open Positions
-* [Python Backend Engineer](https://github.com/appknox/careers/blob/master/python-backend-engineer.md) [Min. 2 years of experience]
-* [Software Engineer](https://github.com/appknox/careers/blob/master/software-engineer-xcode.md) (XCode) [Min. 2 years of experience]
-* [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 2 years of experience]
+* [Python Backend Engineer](https://github.com/appknox/careers/blob/master/python-backend-engineer.md) [Min. 5 years of experience]
+* [Software Engineer](https://github.com/appknox/careers/blob/master/software-engineer-xcode.md) (XCode) [Min. 3 years of experience]
+* [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 3 years of experience]
 
 ## Other Positions
 
 These positions are currently filled at the moment. You can still send us your resumes for future reference, but we are not hiring for these roles at the moment.
 
-* [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 2 years of experience]
-* [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 2 years of experience]
+* [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 3 years of experience]
+* [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 3 years of experience]
 
 
 ## Internships
