@@ -12,9 +12,10 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 ## Requirements
 
-* Should have at-least 2 years experience in building backend / web application (any scripting language / framework)
-* Of the 2 years thats mentioned above, at least 1 year should be using any Python frameworks.
+* Should have at-least 5 years experience in building backend / web application (any scripting language / framework)
+* Of the 5 years thats mentioned above, at least 3 years should be using any Python frameworks.
 * Strong HTML; Proficient in JavaScript & CSS
+* The number of years may not matter if you show promising skills
 
 
 ## Nice to have (Optional)
