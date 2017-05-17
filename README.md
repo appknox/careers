@@ -54,6 +54,7 @@ Do you do hallway usability testing? | Y
 * Windows is allowed iff you are a windows power-user and capable of setting up dev environment that is identical to Linux/Mac
 * Any other tech-skill that you have that are not in job requirements (be sure to mention in the mail)
 * Can play Counter-Strike (Optional. It's okay if you cannot play Counter Strike - we will teach you)
+* The number of years may not matter if you show promising skills
 
 
 ## Open Positions
