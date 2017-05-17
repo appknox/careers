@@ -16,11 +16,12 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 ## Requirements
 
-* Should have at-least 2 years experience in security or show something that proves experience doesn’t matter
+* Should have at-least 3 years experience in security or show something that proves experience doesn’t matter
 * Strong Analytical Skills
 * Strong grasp in fundamentals of information security
 * Self-taught learner willing to read and keep up-to-date on technological changes and how they could be used
 * You will have to implement new features
+* The number of years may not matter if you show promising skills
 
 
 ## Nice to have (Optional)
