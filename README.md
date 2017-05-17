@@ -7,7 +7,7 @@ Wanna be a KnoxStar? We are Hiring!
 
 ## About Appknox
 
-We have built some Microservices, Device Farms (Android & iOS) & IDE Plugins with Python/Django, Node, Java, Ember to help developers and enterprises to automatically detect and fix security loopholes in their Mobile (iOS, Android, Windows, etc.) / IoT Apps within a few minutes. Before you wonder: No, you need not know anything at all about security to apply for tech positions in Appknox. We have expericed security professionals on-board who will give us scripts to detect vulnerabilities. Our job is to refine it and integrate it with the whole system. Only requirement to apply for appknox is to know how to write good code.
+We have built some Microservices, Device Farms (Android & iOS) & IDE Plugins with Python/Django, Node, Java, Ember to help developers and enterprises to automatically detect and fix security loopholes in their Mobile (iOS, Android, Windows, etc.) / IoT Apps within a few minutes. Before you wonder: No, you need not know anything at all about security to apply for tech positions in Appknox. We have expericed security professionals on-board who will give us scripts to detect vulnerabilities. Our job is to refine it and integrate it with the whole system. Only requirement to apply for Appknox is to know how to write good code.
 
 Our tech team is close-knit family of handful of developers. But the size of company is about 25+ people strong (security, sales, marketing, design & other teams). The tech team intentionally tried being as small as possible for as long as possible. Because we love to do as much work as we can - on our own. Only hire when we can no longer handle things on our own. It gives you a lot of oppurtunity to learn a lot of things.
 
