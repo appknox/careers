@@ -79,7 +79,7 @@ We are not entertaining any Interns at the moment. Should that change anytime in
 
 The interview process in the order:
 
-1. 3 programming challenges (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
+1. A programming challenge (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
 1. Phone/Skype/Hangouts interview (personal + past experiences + little bit of tech) with our Tech Team
 1. One week paid-trial. You have to our office and work with us for a week (Monday to Friday). If everything goes well, you will be hired. You will get paid for the work whether your get hired or not.
 1. Play Counter-Strike as a right of passage and become a KnoxStar :) [optional]
