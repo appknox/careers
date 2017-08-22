@@ -59,7 +59,6 @@ Do you do hallway usability testing? | Y
 
 ## Open Positions
 * [Python Backend Engineer](https://github.com/appknox/careers/blob/master/python-backend-engineer.md) [Min. 5 years of experience]
-* [Software Engineer](https://github.com/appknox/careers/blob/master/software-engineer-xcode.md) (XCode) [Min. 3 years of experience]
 * [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 3 years of experience]
 
 ## Other Positions
@@ -67,7 +66,13 @@ Do you do hallway usability testing? | Y
 These positions are currently filled at the moment. You can still send us your resumes for future reference, but we are not hiring for these roles at the moment.
 
 * [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 3 years of experience]
-* [Java Developer](https://github.com/appknox/careers/blob/master/java-developer.md) [Min. 3 years of experience]
+
+## Archived Jobs
+
+These roles are no longer applicable to Appknox.
+
+* [Java Developer](https://github.com/appknox/careers/blob/master/archived/java-developer.md) [Min. 3 years of experience] (Archived)
+* [Software Engineer](https://github.com/appknox/careers/blob/master/archived/software-engineer-xcode.md) (XCode) [Min. 3 years of experience]
 
 
 ## Internships
@@ -114,7 +119,6 @@ This is our current tech-team (In the order of Date of Joining):
 * [@subho007](https://github.com/subho007) (CTO)
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
-* [@hemansutanty](https://github.com/hemansutanty) (Product Development Engineer)
 * [@cosmosgenius](https://github.com/cosmosgenius) (Backend Developer)
 
 
@@ -128,6 +132,7 @@ Not sure if you will be having good time at Appknox? Feel free to contact our Ex
 * [@darshanime](https://github.com/darshanime) (Backend engineer)
 * [@viren-nadkarni](https://github.com/viren-nadkarni) (Product Development Engineer)
 * [@ChillarAnand](https://github.com/chillaranand) (Backend engineer)
+* [@hemansutanty](https://github.com/hemansutanty) (Product Development Engineer)
 
 
 ## Issues / Questions?
