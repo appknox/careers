@@ -6,7 +6,6 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 
 * You will take care of our entire client-side application
 * Implement new features
-* Possibility a complete re-write of client-side app to match the new design we are coming up with
 
 ## Requirements
 * Comfortable with *nux & Command Line (And tools such as git, npm, bower, grunt, brocolli, gulp, ember-cli and basic *nix commands)
