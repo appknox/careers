@@ -121,6 +121,7 @@ This is our current tech-team (In the order of Date of Joining):
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
 * [@cosmosgenius](https://github.com/cosmosgenius) (Backend Developer)
+* [@SubhamBhattacharjee](github.com/SubhamBhattacharjee) (Software Developer)
 
 
 ## Ex-KnoxStars
