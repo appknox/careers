@@ -122,6 +122,7 @@ This is our current tech-team (In the order of Date of Joining):
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
 * [@cosmosgenius](https://github.com/cosmosgenius) (Backend Developer)
 * [@SubhamBhattacharjee](https://github.com/SubhamBhattacharjee) (Software Developer)
+* [@Praseetha-KR](https://github.com/Praseetha-KR) (Backend Developer)
 
 
 ## Ex-KnoxStars
