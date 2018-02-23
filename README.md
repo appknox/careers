@@ -118,7 +118,6 @@ Once we receive your mail - we will send you the programming challenges. You can
 This is our current tech-team (In the order of Date of Joining):
 
 * [@subho007](https://github.com/subho007) (CTO)
-* [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
 * [@cosmosgenius](https://github.com/cosmosgenius) (Backend Developer)
 * [@SubhamBhattacharjee](https://github.com/SubhamBhattacharjee) (Software Developer)
@@ -136,6 +135,7 @@ Not sure if you will be having good time at Appknox? Feel free to contact our Ex
 * [@viren-nadkarni](https://github.com/viren-nadkarni) (Product Development Engineer)
 * [@ChillarAnand](https://github.com/chillaranand) (Backend engineer)
 * [@hemansutanty](https://github.com/hemansutanty) (Product Development Engineer)
+* [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
 
 
 ## Issues / Questions?
