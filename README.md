@@ -120,7 +120,7 @@ This is our current tech-team (In the order of Date of Joining):
 * [@subho007](https://github.com/subho007) (CTO)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
 * [@cosmosgenius](https://github.com/cosmosgenius) (Backend Developer)
-* [@SubhamBhattacharjee](https://github.com/SubhamBhattacharjee) (Software Developer)
+* [@SubhamBhattacharjee](https://github.com/subhaminion) (Software Developer)
 * [@Praseetha-KR](https://github.com/Praseetha-KR) (Backend Developer)
 
 
