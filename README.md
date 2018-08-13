@@ -59,7 +59,7 @@ Do you do hallway usability testing? | Y
 
 ## Open Positions
 
-* [Python Backend Engineer](https://github.com/appknox/careers/blob/master/python-backend-engineer.md) [Min. 5 years of experience]
+* [Fullstack Engineer](https://github.com/appknox/careers/blob/master/fullstack-engineer.md) [Min. 5 years of experience]
 
 ## Other Positions
 
@@ -120,7 +120,6 @@ This is our current tech-team (In the order of Date of Joining):
 * [@subho007](https://github.com/subho007) (CTO)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
 * [@cosmosgenius](https://github.com/cosmosgenius) (Backend Developer)
-* [@subhaminion](https://github.com/subhaminion) (Software Developer)
 * [@Praseetha-KR](https://github.com/Praseetha-KR) (Backend Developer)
 
 
@@ -136,6 +135,7 @@ Not sure if you will be having good time at Appknox? Feel free to contact our Ex
 * [@ChillarAnand](https://github.com/chillaranand) (Backend engineer)
 * [@hemansutanty](https://github.com/hemansutanty) (Product Development Engineer)
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
+* [@subhaminion](https://github.com/subhaminion) (Software Developer)
 
 
 ## Issues / Questions?
