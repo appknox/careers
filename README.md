@@ -60,13 +60,14 @@ Do you do hallway usability testing? | Y
 ## Open Positions
 
 * [Fullstack Engineer](https://github.com/appknox/careers/blob/master/fullstack-engineer.md) [Min. 5 years of experience]
+* [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 1.5 years of experience]
 
 ## Other Positions
 
 These positions are currently filled at the moment. You can still send us your resumes for future reference, but we are not hiring for these roles at the moment.
 
 * [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 3 years of experience]
-* [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 3 years of experience]
+* [Backend Engineer](https://github.com/appknox/careers/blob/master/fullstack-engineer.md) [Min. 5 years of experience]
 
 ## Archived Jobs
 
@@ -94,7 +95,7 @@ The interview process in the order:
 ## Job Perks
 
 1. Competitive Market Salary
-1. Free Food (Break Fast + Lunch + Snacks + Tea)
+1. Free Food (Snacks + Tea)
 1. Free tickets to conferences related to your profession [PyCon, JSFoo, etc]
 1. Flexible office timings
 1. Work from home options (infrequent / limited no of days)
