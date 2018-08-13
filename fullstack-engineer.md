@@ -20,4 +20,4 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/a
 ## Nice to have (Optional)
 
 * Good grasp on client-side JavaScript
-* Have a good understaing about Swagger
+* Have a good understanding about Swagger
