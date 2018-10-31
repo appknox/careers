@@ -18,7 +18,7 @@ We are very picky about hiring. Because the core members will set the engineerin
 
 If you have been under a rock since last 10 years and do not know what `Joel Test` is, click [here](http://www.joelonsoftware.com/articles/fog0000000043.html).
 
-It is a 15 years-old test. A bit outdated for the modern startups. This is an updated version of the test. You can read more about the updated test [here](http://www.steve.codes/blog/2016/7/22/an-updated-joel-test).
+It is a 15 years-old test. A bit outdated for the modern startups. This is an updated version of the test. You can read more about the updated test [here](https://stevebennett.co/2016/07/22/an-updated-joel-test/).
 
 
 Question | Y/N
