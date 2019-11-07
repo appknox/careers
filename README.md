@@ -138,6 +138,8 @@ Not sure if you will be having good time at Appknox? Feel free to contact our Ex
 * [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
 * [@subhaminion](https://github.com/subhaminion) (Software Developer)
 * [@yashwin](https://github.com/yashwin) (Frontend Developer)
+* [@vaibhav](https://github.com/raivaibhav) (Frontend Developer)
+
 
 
 ## Issues / Questions?
