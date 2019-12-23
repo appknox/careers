@@ -123,6 +123,7 @@ This is our current tech-team (In the order of Date of Joining):
 * [@cosmosgenius](https://github.com/cosmosgenius) (Backend Developer)
 * [@Praseetha-KR](https://github.com/Praseetha-KR) (Backend Developer)
 * [@sks444](https://github.com/sks444) (Backend Developer)
+* [@Parthipan-Natkunam](https://github.com/Parthipan-Natkunam) (Frontend Developer)
 
 ## Ex-KnoxStars
 
