@@ -117,33 +117,6 @@ Email engineering[at]appknox[dot]com with the role that you are applying in the 
 Once we receive your mail - we will send you the programming challenges. You can take as much time as you want to complete the challenges (But the sooner is better. The timings will be evaluated too).
 
 
-## KnoxStars
-
-This is our current tech-team (In the order of Date of Joining):
-
-* [@subho007](https://github.com/subho007) (CTO)
-* [@cosmosgenius](https://github.com/cosmosgenius) (Backend Developer)
-* [@Praseetha-KR](https://github.com/Praseetha-KR) (Backend Developer)
-* [@sks444](https://github.com/sks444) (Backend Developer)
-
-## Ex-KnoxStars
-
-Not sure if you will be having good time at Appknox? Feel free to contact our Ex-KnoxStars and ask them about their experience with Appknox. In fact, we recommend it. Be #ProactiveAlways. Here is a complete list of all the Ex-KnoxStars (In the order of date of leaving):
-
-* [@manjunath-satyamurthy](https://github.com/manjunath-satyamurthy) (Full-Stack)
-* [@rmad17](https://github.com/rmad17) (Full-Stack)
-* [@jitk14](https://github.com/jitk14) (Full-Stack & Java Developer)
-* [@darshanime](https://github.com/darshanime) (Backend engineer)
-* [@viren-nadkarni](https://github.com/viren-nadkarni) (Product Development Engineer)
-* [@ChillarAnand](https://github.com/chillaranand) (Backend engineer)
-* [@hemansutanty](https://github.com/hemansutanty) (Product Development Engineer)
-* [@dhilipsiva](https://github.com/dhilipsiva) (Tech Lead / Full-Stack / DevOps)
-* [@subhaminion](https://github.com/subhaminion) (Software Developer)
-* [@yashwin](https://github.com/yashwin) (Frontend Developer)
-* [@vaibhav](https://github.com/raivaibhav) (Frontend Developer)
-* [@Parthipan-Natkunam](https://github.com/Parthipan-Natkunam) (Frontend Developer)
-
-
 
 ## Issues / Questions?
 
