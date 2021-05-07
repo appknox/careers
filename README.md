@@ -82,6 +82,10 @@ Email engineering[at]appknox[dot]com with the role that you are applying in the 
 
 Once we receive your mail - we will send you the programming challenges. You can take as much time as you want to complete the challenges (But the sooner is better. The timings will be evaluated too).
 
+Our current openings are listed in [Cutshort](https://cutshort.io/company/appknox-(xysec-labs-pte-ltd)-j2I4OU56)
+
+- [Software Engineer](https://cutshort.io/job/Software-Engineer-Bengaluru-Bangalore-Appknox-LIlUtBLR)
+- [Senior Software Architect](https://cutshort.io/job/Senior-Software-Architect-Bengaluru-Bangalore-Appknox-3rjSyUuH)
 
 
 ## Issues / Questions?
