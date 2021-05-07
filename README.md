@@ -57,43 +57,9 @@ Do you do hallway usability testing? | Y
 * The number of years may not matter if you show promising skills
 
 
-## Open Positions
-
-* [Fullstack Engineer](https://github.com/appknox/careers/blob/master/fullstack-engineer.md) [Min. 5 years of experience]
-* [Frontend Engineer](https://github.com/appknox/careers/blob/master/frontend-engineer.md) [Min. 3 years of experience]
-* [Backend Engineer](https://github.com/appknox/careers/blob/master/fullstack-engineer.md) [Min. 2 years of experience]
-
-
-## Other Positions
-
-These positions are currently filled at the moment. You can still send us your resumes for future reference, but we are not hiring for these roles at the moment.
-
-* [Security Researcher & Analyst](https://github.com/appknox/careers/blob/master/security-analyst.md) [Min. 1.5 years of experience]
-
-
-## Archived Jobs
-
-These roles are no longer applicable to Appknox.
-
-* [Java Developer](https://github.com/appknox/careers/blob/master/archived/java-developer.md) [Min. 3 years of experience] (Archived)
-* [Software Engineer](https://github.com/appknox/careers/blob/master/archived/software-engineer-xcode.md) (XCode) [Min. 3 years of experience]
-
-
 ## Internships
 
 We are not entertaining any Interns at the moment. Should that change anytime in the future - we'll update it here. So `Watch` our repo for changes.
-
-
-## The Interview Process
-
-The interview process in the order:
-
-1. A programming challenge (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
-1. A short 15 minutes screening round to know you better
-1. Phone/Skype/Hangouts interview (personal + past experiences + little bit of tech) with our Tech Team
-1. One week paid-trial. You have to our office and work with us for a week (Monday to Friday). If everything goes well, you will be hired. You will get paid for the work whether your get hired or not. (optional, depends on what role we are hiring)
-1. Play Counter-Strike as a right of passage and become a KnoxStar :) [optional]
-
 
 ## Job Perks
 
