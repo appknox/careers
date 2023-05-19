@@ -49,7 +49,7 @@ Do you do hallway usability testing? | Y
 * Proficient in English
 * Have a GitHub & StackOverflow profile
 * Proficient in writing test-first code (a.k.a Writing testable code)
-* Make sure you read our [architecture blog post](http://dhilipsiva.com/2015/01/26/architecture-at-appknox.html) before applying. You dont have to understand everything there. But just a high-level understanding would be a huge plus
+* Make sure you read our [architecture blog post](https://www.appknox.com/blog/architecture-behind-appknox-inspired-by-sherlock) before applying. You dont have to understand everything there. But just a high-level understanding would be a huge plus
 * You have your own Linux / Mac machine
 * Windows is allowed iff you are a windows power-user and capable of setting up dev environment that is identical to Linux/Mac
 * Any other tech-skill that you have that are not in job requirements (be sure to mention in the mail)
